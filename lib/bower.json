@@ -1,0 +1,17 @@
+{
+  "name": "weather-app",
+  "description": "weather app using the open weather API",
+  "main": "index.js",
+  "authors": [
+    "Alicia Miceli <akb.miceli@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/aliciamiceli/weather-app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
